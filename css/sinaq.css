@@ -1,0 +1,29 @@
+body{
+    background-image:url(../image/diego-gutierrez--nL-LqkiKXw-unsplash.jpg);
+    background-position: center;
+    background-size: 100%;
+
+}
+
+#Rbasliq{
+    text-align: center;
+    text-shadow: 2px;
+    color: #e04f00;
+    text-transform: uppercase;
+}
+#form{
+
+ padding: 25px;
+ margin: 300px;
+}
+.submit{
+    width: 100px;
+    height: 30px;
+    
+}
+p{
+    box-sizing: border-box;;
+    padding: 400px;
+}
+
+
